@@ -5,8 +5,8 @@
 // @description    Automate pour TellMeMore
 // @version        1.2.8
 // @icon           http://he1.tellmemorecampus.com/favicon.ico
-// @downloadURL    https://dl.dropbox.com/u/8903652/AutoTellMeMore.user.js
-// @updateURL      https://dl.dropbox.com/u/8903652/AutoTellMeMore.user.js
+// @downloadURL    https://github.com/greizgh/AutoTMM/raw/master/AutoTellMeMore.user.js
+// @updateURL      https://github.com/greizgh/AutoTMM/raw/master/AutoTellMeMore.user.js
 // @match          http://*.tellmemorecampus.com/TellMeMore/*
 // ==/UserScript==
 
